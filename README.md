@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DmitriyShalaev
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning to test web projects
-- 💞️ I’m looking to collaborate on INNOCAMP
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me shalaev.dima@gmail.com
 
 <!---
